@@ -1,0 +1,46 @@
+ree clean
+(xuanweb) loveplay1983@xuanDev:~/test$ git push origin main
+Counting objects: 3, done.
+Delta compression using up to 24 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 345 bytes | 345.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To github.com:loveplay1983/testaaa.git
+   da197de..ca4a11a  main -> main
+(xuanweb) loveplay1983@xuanDev:~/test$ 
+(xuanweb) loveplay1983@xuanDev:~/test$ 
+(xuanweb) loveplay1983@xuanDev:~/test$ 
+(xuanweb) loveplay1983@xuanDev:~/test$ dir
+a.txt  README.md
+(xuanweb) loveplay1983@xuanDev:~/test$ vim b.txt
+(xuanweb) loveplay1983@xuanDev:~/test$ git add .ree clean
+(xuanweb) loveplay1983@xuanDev:~/test$ git push origin main
+Counting objects: 3, done.
+Delta compression using up to 24 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 345 bytes | 345.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To github.com:loveplay1983/testaaa.git
+   da197de..ca4a11a  main -> main
+(xuanweb) loveplay1983@xuanDev:~/test$ 
+(xuanweb) loveplay1983@xuanDev:~/test$ 
+(xuanweb) loveplay1983@xuanDev:~/test$ 
+(xuanweb) loveplay1983@xuanDev:~/test$ dir
+a.txt  README.md
+(xuanweb) loveplay1983@xuanDev:~/test$ vim b.txt
+(xuanweb) loveplay1983@xuanDev:~/test$ git add .ree clean
+(xuanweb) loveplay1983@xuanDev:~/test$ git push origin main
+Counting objects: 3, done.
+Delta compression using up to 24 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 345 bytes | 345.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To github.com:loveplay1983/testaaa.git
+   da197de..ca4a11a  main -> main
+(xuanweb) loveplay1983@xuanDev:~/test$ 
+(xuanweb) loveplay1983@xuanDev:~/test$ 
+(xuanweb) loveplay1983@xuanDev:~/test$ 
+(xuanweb) loveplay1983@xuanDev:~/test$ dir
+a.txt  README.md
+(xuanweb) loveplay1983@xuanDev:~/test$ vim b.txt
+(xuanweb) loveplay1983@xuanDev:~/test$ git add .
